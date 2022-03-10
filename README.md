@@ -1,12 +1,18 @@
-### Full-Stack Developer | Machine Learning Enthusiast
+<h1 align="center">Hi 👋, I'm tamoor chatha</h1>
+<h3 align="center">Enthusiast about Tech and want to Learn Everything</h3>
 
-- 🔭 Working on a [UI Components library](https://upstate-ui.netlify.app)!
+<img align="right"
+    src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif'
+    width="190">
+
+
 - 🌱 Trying to become an Expert in Full Stack development
 - 👯 Looking to contribute in some open source projects 📂
 - 💬 Ask me anything 🤷‍♂️
 - ⚡ Fun fact: I am a music lover as well 😄🎵
 
 ---
+<p align="center"><img src="https://komarev.com/ghpvc/?username=tamoorchatha&label=Profile%20views&color=0e75b6&style=flat" alt="tamoorchatha"/></p>
 
 ### Connect with me:
 <p> <a href="https://www.linkedin.com/in/tamoorchatha/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -14,7 +20,7 @@
 
 ---
 
-### I have worked on:
+### Tools & Technologies I Use For Development:
 <p>
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -38,3 +44,4 @@
 #### Personal Account
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=tamoorchatha&hide_border=true&theme=tokyonight" width="42%" align="right" >
 <img  src="https://github-readme-stats.vercel.app/api?username=tamoorchatha&show_icons=true&hide_border=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR,CONTRIBUTOR&hide=issues&theme=tokyonight" width="48%" >
+<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamoorchatha&count_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/> </p>
