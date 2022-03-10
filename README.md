@@ -10,9 +10,8 @@
 - 👯 Looking to contribute in some open source projects 📂
 - 💬 Ask me anything 🤷‍♂️
 - ⚡ Fun fact: I am a music lover as well 😄🎵
-
----
 <p align="center"><img src="https://komarev.com/ghpvc/?username=tamoorchatha&label=Profile%20views&color=0e75b6&style=flat" alt="tamoorchatha"/></p>
+---
 
 ### Connect with me:
 <p> <a href="https://www.linkedin.com/in/tamoorchatha/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -44,4 +43,4 @@
 #### Personal Account
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=tamoorchatha&hide_border=true&theme=tokyonight" width="42%" align="right" >
 <img  src="https://github-readme-stats.vercel.app/api?username=tamoorchatha&show_icons=true&hide_border=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR,CONTRIBUTOR&hide=issues&theme=tokyonight" width="48%" >
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamoorchatha&count_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/> </p>
+<p align="center"><img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamoorchatha&count_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/> </p>
